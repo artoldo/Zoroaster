@@ -1,1 +1,1 @@
-# Please run this application in Google Chrome or Mozilla Firefox
+# Please run this application in Chrome or Firefox
